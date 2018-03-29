@@ -1,11 +1,11 @@
 # test-gh
-A dummy repo to test the Symfony gh tool
+A dummy repo to test the Symfony GH Tool.
 
-## Dummy content
+## Some Dummy Content
 
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum, nibh ut suscipit placerat, tellus est rutrum metus, et convallis metus elit sit amet lectus. Praesent non condimentum tellus. Phasellus vel est sed erat egestas feugiat. Donec sem enim, laoreet a magna in, pellentesque laoreet ante. Morbi eu leo urna. Praesent mi ipsum, fermentum vel laoreet in, dignissim quis risus. Integer quis dignissim dui. Cras ut nisl ut lorem pretium fermentum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce elementum, nibh ut suscipit placerat, tellus est rutrum metus, et convallis metus elit sit amet lectus. Praesent non condimentum tellus. Phasellus vel est sed erat egestas feugiat. Donec sem enim, laoreet a magna in, pellentesque laoreet ante. Morbi eu leo urna. Praesent mi ipsum, fermentum vel laoreet in, dignissim quis risus. Integer quis dignissim dui. Cras ut nisl ut lorem pretium fermentum...
 
 Cras vitae laoreet nisl. Nulla tellus mauris, egestas id cursus at, feugiat non lectus. Pellentesque et sapien vel enim sollicitudin semper et eget lorem. Duis quis euismod diam. Nulla facilisi. Donec lobortis eros non erat hendrerit pharetra. Cras fringilla, purus a iaculis venenatis, dui est egestas mauris, quis molestie justo quam in turpis. Proin turpis nunc, facilisis eget pellentesque tristique, luctus at est. Donec fringilla augue eu tortor bibendum, at suscipit libero rhoncus. Nullam laoreet libero a sodales imperdiet. Nunc nec dui nunc. Vestibulum at auctor enim. Donec pulvinar in lacus ac imperdiet. Nullam a efficitur mi. Donec quis venenatis felis.
 
@@ -15,7 +15,7 @@ Donec cursus cursus libero ut aliquam. Cras vel venenatis enim. Vestibulum ante 
 
 Donec imperdiet a elit in vulputate. Aliquam purus arcu, bibendum id eleifend non, sodales id enim. Nullam vehicula lacinia risus, vel egestas felis venenatis nec. Phasellus eu eros id sem fermentum laoreet. Nullam et vehicula mi. Sed eleifend nulla sem, scelerisque lacinia ex varius quis. Integer non iaculis nunc, non aliquet lacus. Morbi justo justo, venenatis nec est sed, tincidunt faucibus arcu. Sed bibendum lorem in lorem semper varius. Etiam pulvinar felis eget mauris tempus, non laoreet leo aliquet. Proin ligula est, porta vel sapien a, ultrices pellentesque nisl. 
 
-## More
+## More dummy content
 
 
 
